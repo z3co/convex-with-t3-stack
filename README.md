@@ -1,5 +1,3 @@
-Here's an improved version of the guide, focusing on clearer wording, better flow, and a more professional tone, while retaining all the original content and steps:
-
 # Integrating T3 Stack with Convex: A Step-by-Step Guide
 
 This guide will walk you through setting up a T3 Stack project and integrating it with Convex for your backend needs.
