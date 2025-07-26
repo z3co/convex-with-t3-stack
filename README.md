@@ -42,7 +42,7 @@ Open your `package.json` file in your code editor. Add or update the following s
     "dev": "npm-run-all --parallel dev:backend dev:frontend",
     "dev:frontend": "next dev --turbo",
     "dev:backend": "convex dev",
-    "predev": "convex dev --until-success"
+    "predev": "convex dev --until-success",
   }
 }
 ```
